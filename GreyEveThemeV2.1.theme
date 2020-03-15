@@ -1,0 +1,55 @@
+; Copyright © Microsoft Corp.
+;Theme by http://eversins.deviantart.com/
+
+[Theme]
+; Windows - IDS_THEME_DISPLAYNAME_AERO
+DisplayName=GreyEveTheme V2.1
+ThemeId={30A4D7D0-E8D2-467C-BC88-C9A557F57D63}
+
+[Control Panel\Desktop]
+PicturePosition=4
+
+[VisualStyles]
+Path=%SystemRoot%\Resources\Themes\Aero\AeroLite.msstyles
+ColorStyle=NormalColor
+Size=NormalSize
+AutoColorization=0
+ColorizationColor=0X7F000000
+VisualStyleVersion=10
+HighContrast=3
+
+[MasterThemeSelector]
+MTSM=RJSPBS
+
+[Control Panel\Colors]
+ActiveBorder=45 45 45
+ActiveTitle=45 45 45
+AppWorkspace=45 45 45
+Background=0 0 0
+ButtonAlternateFace=192 192 192
+ButtonDkShadow=45 45 45
+ButtonFace=45 45 45
+ButtonHilight=45 45 45
+ButtonLight=45 45 45
+ButtonShadow=128 128 128
+ButtonText=220 220 220
+GradientActiveTitle=192 192 192
+GradientInactiveTitle=128 128 128
+GrayText=128 128 128
+Hilight=79 79 79
+HilightText=252 252 252
+HotTrackingColor=220 220 220
+InactiveBorder=45 45 45
+InactiveTitle=45 45 45
+InactiveTitleText=192 192 192
+InfoText=220 220 220
+InfoWindow=45 45 45
+Menu=45 45 45
+MenuBar=45 45 45
+MenuHilight=128 128 128
+MenuText=230 230 230
+Scrollbar=45 45 45
+TitleText=220 220 220
+Window=45 45 45
+WindowFrame=15 15 15
+WindowText=220 220 220
