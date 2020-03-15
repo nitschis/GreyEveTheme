@@ -11,7 +11,7 @@ This is built upon their High Contrast theme, so be aware that some programs mig
 
 
 
-![Image description](https://github.com/nitschis/GreyEveTheme/blob/master/dan4jj3-18aba79f-9743-4549-87ff-5e7856b7bded.png)
+![Image description](https://github.com/nitschis/GreyEveTheme/blob/master/screenshot.png)
 
 _______________
 
