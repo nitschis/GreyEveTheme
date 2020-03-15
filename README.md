@@ -12,6 +12,7 @@ If you don't trust a zip download (it only has 700 byte and I am a nice guy) you
 _______________
 
 Personal recommendations and fixes:
+
    Firefox:   
         First go to Preferences -> Color and Appearance -> Colors -> In the drop down menu, select "Never".
         Install DarkReader to make websites dark, also install ShadowFox to Theme Firefox Dark on every page!
@@ -22,10 +23,10 @@ Personal recommendations and fixes:
         To change styles of your most visited sites use the Stylus extension. Here is a list of good dark themes, for popular sites.
         I use this extension to make the scroll bars dark.
 
-    Visual Studio fix:
+   Visual Studio fix:
         Visual Studio will switch to the High Contrast theme and remove syntax highlighting. Fortunately this can be fixed, I created a small guide here.
 
-    f.lux:
+   f.lux:
         This program reduces the color temperature of you monitor at night, blue/white light can cause headaches, stress and bad sleep.
         Download f.lux and set it to a value comfortable to you, I personally use 3200K.
         It might look strange to you at first, but try using it for 10 minutes at night, then turn it off to see how uncomfortable it is without.
