@@ -35,10 +35,11 @@ _______________
 
 If you like this theme please favorite/share it and leave a comment! Makes my work worth it!
 
-Maybe consider being the first to donate a small amount, this post/theme/lists take time to create and I don't host on AdSpammed/FileHosting/malware sites like most other people!
+Maybe consider being the first to donate a small amount, this post/theme/lists take time to create and I don't host themes on AdSpammed/FileHosting/malware sites like many other people!
+
 BTC: 3N5FkWr4zraxV1QdHbZicAj2BnYFjfSJvi
 ETH: 0x0514765a9875e58621242666443770Fa20451C0D
-PayPal
+
 _______________
 
 If you share or post this theme anywhere, please add a Link to this original site! Be fair!
