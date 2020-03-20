@@ -11,6 +11,8 @@ This is the best I can do with the default Microsoft theming engine, if you don'
 This is built upon their High Contrast theme, so be aware that some programs might look different. If you don't like it just select the Windows default theme and everything will be reverted.
 
 ![Image description](https://github.com/nitschis/GreyEveTheme/blob/master/screenshot.png)
+
+**[Download](https://github.com/nitschis/GreyEveTheme/blob/master/GreyEveThemeV2.1.theme)** (right click -> "Save Link As")
 _______________
 
 
