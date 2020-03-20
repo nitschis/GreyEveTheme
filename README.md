@@ -1,4 +1,5 @@
 
+
 # GreyEveTheme - Windows 10 High Contrast Theme
 A Dark Grey Windows 10 Theme
 
@@ -44,10 +45,9 @@ _______________
 Want to buy me a beer?
 
 BTC: 3N5FkWr4zraxV1QdHbZicAj2BnYFjfSJvi
-
 ETH: 0x0514765a9875e58621242666443770Fa20451C0D
-
 [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=TTM9AJC3PL3A6)
+
 
 
 Have fun on the dark side!
