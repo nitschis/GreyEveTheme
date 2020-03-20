@@ -1,7 +1,6 @@
 
 # GreyEveTheme - Windows 10 High Contrast Theme
 A Dark Grey Windows 10 Theme
-Originally uploaded at [DeviantArt](https://www.deviantart.com/eversins/art/GreyEveTheme-FINAL-Windows-10-High-Contrast-Theme-643504863)
 
 
 This theme can be used *without* system modifications. Just download and double click the theme file.
