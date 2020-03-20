@@ -11,7 +11,7 @@ This is built upon their High Contrast theme, so be aware that some programs mig
 
 ![Image description](https://github.com/nitschis/GreyEveTheme/blob/master/screenshot.png)
 
-**[Download](https://github.com/nitschis/GreyEveTheme/blob/master/GreyEveThemeV2.1.theme)** (right click -> "Save Link As")
+**[Download](https://github.com/nitschis/GreyEveTheme/blob/master/GreyEveTheme.theme)** (right click -> "Save Link As")
 _______________
 
 
