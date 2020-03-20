@@ -34,7 +34,7 @@ Set your settings like [this](https://i.imgur.com/l4vuqir.png)
 
  **Visual Studio fix**:
         
- - Visual Studio will switch to the High Contrast theme and remove syntax highlighting. Fortunately this can be fixed, created a small guide [here](https://www.deviantart.com/users/outgoing?http://pastebin.com/pyUTD9CQ).
+ - Visual Studio will switch to the High Contrast theme and remove syntax highlighting. Fortunately this can be fixed, created a small guide [here](http://pastebin.com/pyUTD9CQ).
 
 
 If you find know of any other application fixes, please open an issue, I might add it.
