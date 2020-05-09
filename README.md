@@ -12,13 +12,13 @@ This is built upon their High Contrast theme, so be aware that some programs mig
 
 ![Image description](https://github.com/nitschis/GreyEveTheme/blob/master/screenshot.png)
 
-**[Download](https://github.com/nitschis/GreyEveTheme/blob/master/GreyEveTheme.theme)** (right click -> "Save Link As")
+**[Download](https://raw.githubusercontent.com/nitschis/GreyEveTheme/master/GreyEveTheme.theme)** (right click -> "Save Link As")
 
 
 
 For newer versions of Windows, you might have to use this *.desktopthemepack version: 
 
-**[Download 2](https://github.com/nitschis/GreyEveTheme/blob/master/GreyEveTheme.deskthemepack)** (right click -> "Save Link As") 
+**[Download 2](https://github.com/nitschis/GreyEveTheme/blob/master/GreyEveTheme.deskthemepack?raw=true)** (right click -> "Save Link As") 
 
 
 _______________
