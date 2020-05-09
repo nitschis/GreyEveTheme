@@ -16,10 +16,6 @@ This is built upon their High Contrast theme, so be aware that some programs mig
 
 
 
-For newer versions of Windows, you might have to use this *.desktopthemepack version: 
-
-**[Download 2](https://github.com/nitschis/GreyEveTheme/blob/master/GreyEveTheme.deskthemepack?raw=true)** (right click -> "Save Link As") 
-
 
 _______________
 
