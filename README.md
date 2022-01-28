@@ -1,7 +1,7 @@
 
 
-# GreyEveTheme - Windows 10 High Contrast Theme
-A Dark Grey Windows 10 Theme
+# GreyEveTheme - Windows 10 / Windows 11 High Contrast Theme
+A Dark Grey Windows 10 / 11 Theme
 
 
 This theme can be used *without* system modifications. Just download and double click the theme file.
