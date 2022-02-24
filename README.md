@@ -48,9 +48,9 @@ _______________
 
 Want to buy me a beer?
 
-BTC: 3N5FkWr4zraxV1QdHbZicAj2BnYFjfSJvi
+BTC: bc1q7e332x640c7jqul3tv6p324pxvgsu4m2ksaedz
 
-ETH: 0x0514765a9875e58621242666443770Fa20451C0D
+ETH: 0xF28bd5071E100EC20D352C08A8ab928b42A6c04d
 
 [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=TTM9AJC3PL3A6)
 
